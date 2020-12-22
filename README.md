@@ -13,6 +13,7 @@ techlit take-home problem
 * This is more specific, but we could add previews of each book (first few pages) along with a simple summary. This would require each listed book to be hyperlinked to a page with more info. 
 
 **Additional Thought**
+
 Since our chat last week, I've been thinking about the question you asked regarding what programs/apps you should include, knowing that games particularly interest the kids. Perhaps:
 * Games that include an aspect of competition, this always garners so much energy and enjoyment (like the mario-kart-esque game). This could be multiplayer or solo player with a leaderboard.
 * Games that are progress-based: a game/program that allows each user to save their progress every time they play, and continues to build up to something more & more grand (like stardew valley)
